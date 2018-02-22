@@ -1,5 +1,5 @@
 # Matrix-sort
-PHP funkcija koja prihvaća enkodiranu JSON matricu (array).<br><br>
+PHP funkcija koja prihvaća enkodiranu JSON matricu (array).<br>
 
 Upute:<br>
     1) Sortirati prvi red dane 2D matrice u uzlaznom redoslijedu. Prilikom sortiranja ostale redove je potrebno pomaknuti zajedno s prvim redom.<br>
